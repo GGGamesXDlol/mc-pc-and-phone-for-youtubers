@@ -1,0 +1,3 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"PC Deletor 5000","color":"gold","bold":true,"italic":true}',Lore:['{"text":"Right click in a pc to delete it (you might need to be separated from the pc som blocks to work)","bold":true,"italic":true}']},HideFlags:5,Unbreakable:1b,pcdeletor:1b,Enchantments:[{}]} 1
+
+give @p squid_spawn_egg{display:{Name:'{"text":"PC","color":"gold","bold":true}'},Enchantments:[{}],EntityTag:{NoGravity:1b,Silent:1b,CustomNameVisible:0b,DeathLootTable:"minecraft:empty",Tags:["pcspawner"],ActiveEffects:[{Id:14,Amplifier:1b,Duration:2000000,ShowParticles:0b}]}} 1
