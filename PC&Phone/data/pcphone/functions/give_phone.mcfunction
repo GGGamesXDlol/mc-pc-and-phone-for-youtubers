@@ -1,1 +1,1 @@
-give @s spyglass{display:{Name:'[{"text":"CellPhone","italic":false}]',Lore:['{"text":"Its just a retextured spyglass lol","bold":true,"italic":true}']}} 1
+give @s spyglass{CustomModelData:123456,display:{Name:'[{"text":"Cellphone","italic":false}]',Lore:['{"text":"Its just a retextured spyglass lol","bold":true,"italic":true}']}} 1
